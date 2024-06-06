@@ -1,6 +1,7 @@
 **/bin/
 **/obj/
-.idea/
-.vs/
-/workspace.xml
+**/.vs/
+**/.idea/
+**/*.sln.DotSettings.user
+
 *.code-workspace
